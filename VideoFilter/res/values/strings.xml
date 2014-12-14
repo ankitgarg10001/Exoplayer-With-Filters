@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoFilter</string>
+    <string name="Choose">Choose a File</string>
+    <string name="Start">Start</string>
+    <string name="Pause">Pause</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ankit.videofilter.MainActivity" >
+
+    <item
+        android:id="@+id/item1"
+        android:title="none"/>
+    <item
+        android:id="@+id/item2"
+        android:title="Warm"/>
+    <item
+        android:id="@+id/item3"
+        android:title="Cold"/>
+
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="blue" type="color">#9033B5E5</item>
+    <item name="cold" type="color">#6099CCFF</item>
+    <item name="warm" type="color">#40CC6600</item>
+    <item name="sepia" type="color">#50704214</item>
+    <item name="green" type="color">#9099CC00</item>
+    <item name="orange" type="color">#90FFBB33</item>
+    <item name="red" type="color">#90FF4444</item>
+    <item name="darkblue" type="color">#900099CC</item>
+    <item name="darkpurple" type="color">#909933CC</item>
+    <item name="darkgreen" type="color">#90669900</item>
+    <item name="darkorange" type="color">#90FF8800</item>
+    <item name="darkred" type="color">#90CC0000</item>
+    <item name="white" type="color">#00000000</item>
+
+    
+
+</resources>
